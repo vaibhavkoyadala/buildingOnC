@@ -1,7 +1,7 @@
 BuildingOnC
 ===========
-When I looked at how python was designed using C, I was <still looking for the right word here>.
-I decided to build modules which can be used like modules in python or Java.
+When I looked at how python was designed using C, I was |_still looking for the right word here_|.  
+I decided to build modules which can be used like modules in python or Java.  
 I did and I successfully used them in my projects. 
  
 Modules:
